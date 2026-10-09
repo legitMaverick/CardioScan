@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CardioScan AI
 
 ECG arrhythmia detection research prototype built with a 1D residual CNN, Flask REST API, and React frontend.
@@ -217,3 +218,9 @@ The report has been cleaned to remove placeholders and to align the documented d
 ## License
 
 The project source code is released under the MIT License. The MIT-BIH Arrhythmia Database is a separate dataset with its own access and licensing terms; consult PhysioNet before redistributing or using the dataset.
+=======
+"# Vera" 
+"# Vera" 
+"# Vera" 
+"# Vera" 
+>>>>>>> 83840e19289b2434314664bde36b4b92d53c2c00
